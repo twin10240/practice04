@@ -9,7 +9,6 @@ public class Book {
 	public Book() {}
 	
 	public Book(int bookNo, String title, String author) {
-		super();
 		this.bookNo = bookNo;
 		this.title = title;
 		this.author = author;
